@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+
+class JogoDaVelha extends StatefulWidget {
+  const JogoDaVelha({Key? key}) : super(key: key);
+
+  @override
+  State<JogoDaVelha> createState() => _JogoDaVelhaState();
+}
+
+class _JogoDaVelhaState extends State<JogoDaVelha> {
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
